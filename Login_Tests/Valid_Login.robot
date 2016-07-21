@@ -100,3 +100,6 @@ Valid Login
     Sleep    2
     Click Element    xpath=/html/body/div[5]/div/div[2]/table/tbody/tr[3]/td/button[1]
     Sleep    2
+
+Test Login
+    Open Broser and Login automatically
